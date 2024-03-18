@@ -7,9 +7,7 @@ import re
 import pandas as pd
 import statistics
 import matplotlib.pyplot as plt
-from reportlab.lib import colors
-from reportlab.lib.pagesizes import letter,landscape
-from reportlab.platypus import SimpleDocTemplate, Table, TableStyle
+
 
 
 MSCI = ['A','AA','AAA','B','BB','BBB','CCC']
